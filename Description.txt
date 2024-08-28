@@ -1,0 +1,18 @@
+Project 4:
+
+The project aims to develop a movie recommendation system based of the past preferences of a user
+
+The MovieLens dataset is a very large dataset
+Due to limited resources the MovieLens Small Latest dataset is used
+
+The Data visualization helps in better understanding of the dataset
+Preprocessing is done in order to facilitate in training of an accurate algorithm
+
+A KNN model is trained on this dataset
+The model is saved as a (.pkl) file 
+
+The saved model is called in the testing code
+The training code asks user for prior experience 
+The input is then passed to the model 
+
+A List of Recommended Movies is Generated and Displayed 
